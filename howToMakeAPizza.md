@@ -1,3 +1,4 @@
+
 # Cómo hacer una pizza
 
 1. **Precalienta el horno** a 220°C (428°F).
@@ -10,3 +11,12 @@
 8. **Corta y sirve**.
 
 ¡Disfruta tu pizza!
+
+<ul>
+  <li>Buy Ingredients</li>
+  <li>prepare pizza dough</li>
+  <li>Combine Ingredients</li>
+  <li>Cook</li>
+  <li>eat</li>
+</ul> 
+
